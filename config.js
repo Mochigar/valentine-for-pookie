@@ -27,7 +27,7 @@ const CONFIG = {
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                                // Text for "No" button
             maybeBtn: "Maybe",                                        //Text for "Maybe" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I Love you TO THE MOONNNNN ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -38,8 +38,8 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            yesBtn: "Yes, of course mi amor!",                                             // Text for "Yes" button
+            noBtn: "No ewww blegh"                                                 // Text for "No" button
         }
     },
 
