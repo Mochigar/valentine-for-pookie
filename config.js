@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Pookie",
+    valentineName: "Jennifer",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -33,7 +33,7 @@ const CONFIG = {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             alilBtn: "just a lil",                                     //Text for "lil" button 
-            tothemoonBtn: "TO THE MOON",                               // 
+            tothemoonBtn: "TO THE MOON",                               // Text for "to the moon" button
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
